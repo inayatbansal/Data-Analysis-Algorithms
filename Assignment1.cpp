@@ -164,17 +164,9 @@ int main()
 
 /*
 OUTPUT:
-
-Q1 Output:
-Binary Search: Element found at index 5
-
-Q2 Output:
-Merge Sort Result 1: 5 6 7 11 12 13
-Merge Sort Result 2: 3 9 10 27 38 43 82
-
-Q3 Output:
-Quick Sort Result: 2 2 4 6 9
-
-Q4 Output:
-Maximum Subarray Sum = 7
+Q1 Output: 5
+Q2 Output 1: 5 6 7 11 12 13 
+Q2 Output 2: 3 9 10 27 38 43 82
+Q3 Output: 2 2 4 6 9
+Q4 Output: 7
 */

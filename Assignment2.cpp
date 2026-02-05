@@ -16,7 +16,7 @@ bool compare(Activity a, Activity b)
 //Q2
 int main()
 {
-    // -------- Q1: Activity Selection --------
+    //  Q1: Activity Selection 
     Activity a[] = {{1,2}, {3,4}, {0,6}, {5,7}, {8,9}, {5,9}};
     int n = 6;
 
@@ -40,7 +40,7 @@ int main()
 
     cout << "\nTotal = " << count << endl;
 
-    // -------- Q2: Minimum Platforms --------
+    //  Q2: Minimum Platforms 
     int at[] = {900, 910, 920, 1100, 1120};
     int dt[] = {940, 1200, 950, 1130, 1140};
     int t = 5;
@@ -73,12 +73,9 @@ int main()
 
 /*
 OUTPUT:
-
-Q1 Output:
+Q1 Maximum number of activities: 
 Selected activities: (1, 2), (3, 4), (5, 7), (8, 9)
-Maximum number of activities = 4
+Total = 4
 
-Q2 Output:
-Minimum number of platforms required = 3
+Q2 Minimum number of platforms required = 3
 */
-
